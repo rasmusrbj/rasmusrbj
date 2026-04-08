@@ -1,20 +1,22 @@
 # Rasmus Jensing
 
-Building [Happenings](https://happenings.dk) — making it dead simple for students to find and share events.
+Building [Happenings](https://happenings.social) — helping people know what's happening around them and be more together.
 
-Based in Copenhagen. Getting European tech back in the game.
+Technology is a tool, not a replacement for reality.
 
-### What I work with
+Based in Aarhus. Getting European tech back in the game.
 
-`TypeScript` `Go` `Flutter` `Next.js` `Terraform`
+### Stack
+
+`Go` `gRPC` `ConnectRPC` `Protobuf` `Buf` `Kubernetes` `Helm` `Prisma` `TypeScript` `Next.js` `Flutter` `SwiftUI`
 
 ### Currently
 
 - Shipping Happenings full-time
-- Vibe coding everything from backends to mobile apps
+- Vibe coding everything from infrastructure to mobile
 - Connecting builders across the Danish startup scene
 
 ### Links
 
 - [rasmusjensing.com](https://rasmusjensing.com)
-- [Happenings](https://happenings.dk)
+- [happenings.social](https://happenings.social)
