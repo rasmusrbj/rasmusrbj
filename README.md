@@ -12,8 +12,7 @@ Based in Aarhus. Getting European tech back in the game.
 
 ### Currently
 
-- Shipping Happenings full-time
-- Vibe coding everything from infrastructure to mobile
+- Shipping Happenings full-time — infrastructure, backend, web, and mobile
 - Connecting builders across the Danish startup scene
 
 ### Links
